@@ -7,3 +7,4 @@ Django rest framework
 VirtualBox 
 Vagrant 
 AWS
+Venv
